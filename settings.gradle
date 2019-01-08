@@ -1,0 +1,6 @@
+rootProject.name = 'kafka.explorer'
+include 'kafka-basics'
+include 'kafka-producer-twitter'
+include 'kafka-consumer-elastic-search'
+include 'kafka-streams-filter-tweets'
+
